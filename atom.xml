@@ -4,9 +4,9 @@
   <subtitle>程序员，学生</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://hustjs.github.io/"/>
   <updated>2016-08-23T17:30:13.266Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://hustjs.github.io/</id>
   
   <author>
     <name>radical</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>Github Pages + Hexo打造私人博客</title>
-    <link href="http://yoursite.com/2016/08/24/my-first-post/"/>
-    <id>http://yoursite.com/2016/08/24/my-first-post/</id>
+    <link href="http://hustjs.github.io/2016/08/24/my-first-post/"/>
+    <id>http://hustjs.github.io/2016/08/24/my-first-post/</id>
     <published>2016-08-23T17:27:17.000Z</published>
     <updated>2016-08-23T17:30:13.266Z</updated>
     
@@ -36,8 +36,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2016/08/24/hello-world/"/>
-    <id>http://yoursite.com/2016/08/24/hello-world/</id>
+    <link href="http://hustjs.github.io/2016/08/24/hello-world/"/>
+    <id>http://hustjs.github.io/2016/08/24/hello-world/</id>
     <published>2016-08-23T16:57:26.858Z</published>
     <updated>2016-08-23T16:57:26.858Z</updated>
     
