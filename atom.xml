@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://hustjs.github.io/"/>
-  <updated>2016-08-23T19:56:58.984Z</updated>
+  <updated>2016-08-24T05:52:10.961Z</updated>
   <id>http://hustjs.github.io/</id>
   
   <author>
@@ -16,11 +16,42 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Hello Hexo</title>
+    <link href="http://hustjs.github.io/2016/08/24/hello-world/"/>
+    <id>http://hustjs.github.io/2016/08/24/hello-world/</id>
+    <published>2016-08-24T05:52:10.969Z</published>
+    <updated>2016-08-24T05:52:10.961Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+    
+    </summary>
+    
+      <category term="Hexo" scheme="http://hustjs.github.io/categories/Hexo/"/>
+    
+    
+      <category term="Hexo" scheme="http://hustjs.github.io/tags/Hexo/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Activity Launchmode你需要知道的一切</title>
     <link href="http://hustjs.github.io/2016/08/24/Activity-Launchmode/"/>
     <id>http://hustjs.github.io/2016/08/24/Activity-Launchmode/</id>
     <published>2016-08-23T19:38:57.000Z</published>
-    <updated>2016-08-23T19:56:58.984Z</updated>
+    <updated>2016-08-24T05:56:31.506Z</updated>
     
     <content type="html"><![CDATA[<p>#Activity Launchmode你需要知道的一切<br><a id="more"></a>，</p>
 <h1 id="四种启动模式"><a href="#四种启动模式" class="headerlink" title="四种启动模式"></a>四种启动模式</h1><p>2种定义方式:1 使用manifest文件  2 使用intent flag</p>
@@ -71,6 +102,12 @@ Activity 将其 allowTaskReparenting 属性设置为 &quot;true&quot;。
     
     </summary>
     
+      <category term="Android" scheme="http://hustjs.github.io/categories/Android/"/>
+    
+    
+      <category term="Activity" scheme="http://hustjs.github.io/tags/Activity/"/>
+    
+      <category term="Launchmode" scheme="http://hustjs.github.io/tags/Launchmode/"/>
     
   </entry>
   
@@ -79,7 +116,7 @@ Activity 将其 allowTaskReparenting 属性设置为 &quot;true&quot;。
     <link href="http://hustjs.github.io/2016/08/24/my-first-post/"/>
     <id>http://hustjs.github.io/2016/08/24/my-first-post/</id>
     <published>2016-08-23T17:27:17.000Z</published>
-    <updated>2016-08-23T17:30:13.266Z</updated>
+    <updated>2016-08-24T05:53:16.775Z</updated>
     
     <content type="html"><![CDATA[<p>#这里是正文，用markdown写，你可以选择写一段显示在首页的简介后，加上<br><a id="more"></a>，在<!--more-->之前的内容会显示在首页，之后的内容会被隐藏，当游客点击Read more才能看到。</p>
 ]]></content>
@@ -90,33 +127,14 @@ Activity 将其 allowTaskReparenting 属性设置为 &quot;true&quot;。
     
     </summary>
     
+      <category term="Hexo" scheme="http://hustjs.github.io/categories/Hexo/"/>
     
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="http://hustjs.github.io/2016/08/24/hello-world/"/>
-    <id>http://hustjs.github.io/2016/08/24/hello-world/</id>
-    <published>2016-08-23T16:57:26.858Z</published>
-    <updated>2016-08-23T16:57:26.858Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
-]]></content>
+      <category term="Hexo" scheme="http://hustjs.github.io/tags/Hexo/"/>
     
-    <summary type="html">
+      <category term="blog" scheme="http://hustjs.github.io/tags/blog/"/>
     
-      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
-    
-    </summary>
-    
+      <category term="github pages" scheme="http://hustjs.github.io/tags/github-pages/"/>
     
   </entry>
   
