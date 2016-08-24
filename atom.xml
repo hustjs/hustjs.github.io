@@ -51,7 +51,7 @@
     <link href="http://hustjs.github.io/2016/08/24/Activity-Launchmode/"/>
     <id>http://hustjs.github.io/2016/08/24/Activity-Launchmode/</id>
     <published>2016-08-23T19:38:57.000Z</published>
-    <updated>2016-08-24T05:56:31.506Z</updated>
+    <updated>2016-08-24T07:52:02.228Z</updated>
     
     <content type="html"><![CDATA[<p>#Activity Launchmode你需要知道的一切<br><a id="more"></a>，</p>
 <h1 id="四种启动模式"><a href="#四种启动模式" class="headerlink" title="四种启动模式"></a>四种启动模式</h1><p>2种定义方式:1 使用manifest文件  2 使用intent flag</p>
@@ -108,6 +108,10 @@ Activity 将其 allowTaskReparenting 属性设置为 &quot;true&quot;。
       <category term="Activity" scheme="http://hustjs.github.io/tags/Activity/"/>
     
       <category term="Launchmode" scheme="http://hustjs.github.io/tags/Launchmode/"/>
+    
+      <category term="Android" scheme="http://hustjs.github.io/tags/Android/"/>
+    
+      <category term="基础总结" scheme="http://hustjs.github.io/tags/%E5%9F%BA%E7%A1%80%E6%80%BB%E7%BB%93/"/>
     
   </entry>
   
